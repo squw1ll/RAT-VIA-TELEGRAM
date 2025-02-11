@@ -14,3 +14,7 @@ the bot is made with a minimum number of functions for a smaller size.
 
 Do not forget to run the pip install -r requirements.txt command before installing online
 Also enter your bot token in the BOT_TOKEN field
+
+
+![example of screenshots of the bot's work](screen1.jpg)
+![example of screenshots of the bot's work](screen2.jpg)
