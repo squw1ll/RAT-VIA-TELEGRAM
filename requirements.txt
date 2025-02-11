@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+shutilwhich
+keyboard
+psutil
+Pillow
+pyautogui
